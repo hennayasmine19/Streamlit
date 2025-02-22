@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-st.title("Dataset Visualization")
+st.title("Data Visualization")
 
 # File uploader
 uploaded_file = st.file_uploader("Upload your CSV file", type=["csv"])
